@@ -45,6 +45,7 @@ tayo360
 - [Chirayu Sharma](https://github.com/Chirayu123dot)
 - [Raghav](https://github.com/never-code)
 - [Durgesh Kumar Meena](https://github.com/durgeshmeena)
+- [Aaditya Kumra](https://github.com/AadityaKumra)
 - [Nayzaw Minnaing](https://github.com/ahnge)
 - [Saman Dehghan](https://github.com/sadehghan)
 - [Julio Vargas] https://github.com/JulioCeVa
